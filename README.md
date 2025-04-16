@@ -9,11 +9,7 @@
 <p align="center">
 <br>
 <b>Contributions welcome, please open a pull request if you have anything to add.</b><br>
-<!--- Excuse my terrible formatting, i'm not good at markdown. --->
-<br>
-<b>Some larger samples are split, to unpack please use 7-Zip:</b><br>
-<b>https://www.7-zip.org/download.html</b><br>
-<br>
+
 <h1></h1>
 <p align="center">
 <sub>I disclaim all liability for any issues arising from the use of these constructor/builder samples.</sub><br>
